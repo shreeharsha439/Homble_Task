@@ -95,5 +95,5 @@ This is optional but would help us understand your current proficiency level, so
 ## Submission
 
 Ensure you've pushed all changes and added the repository owner as a collaborator for evaluation.
-
+Start Project --> npm run-script start
 Good luck!
